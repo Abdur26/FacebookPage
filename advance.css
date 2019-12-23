@@ -1,0 +1,233 @@
+body{
+    background-color: #dfe3ee;
+}
+
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 77px;
+}
+
+.header-left{
+    font-size: 43px;
+    position: absolute;
+    top: 4%;
+    left: 174px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+}
+
+
+.header-right-email{
+    position: absolute;
+    right: 500px;
+    top:17px;
+    font-size: 12px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: white;
+}
+
+.header-right-pass{
+    position: absolute;
+    right: 371px;
+    top:17px;
+    font-size: 12px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: white;
+}
+
+.header-right{
+    position: absolute;
+    right:90px;
+    top: 36px;
+}
+
+.header-right-input-email{
+    width: 150px;
+    height: 20px;
+    border: .5px solid black;
+}
+
+.header-right-input-password{
+    width: 150px;
+    height: 20px;
+    border: .5px solid black;
+    margin-left: 10px;
+}
+
+
+.header-right-input-submit{
+    height: 25px;
+    background-color:#4267B2;
+    color: white;
+    border: 4px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.Forgotten{
+    color: rgb(164, 188, 236);
+    position: relative;
+    top: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 12px;
+    left: -224px;
+    text-decoration: none;
+}
+
+.Forgotten:hover{
+    text-decoration: underline;
+} 
+.left{
+    width: 55%;
+    position: absolute;
+    top: 20%;
+    left:13%;
+}
+.body-left{
+    font-size: 21px;
+    width: 450px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    font-weight: bold;
+    line-height: 29px;
+    word-spacing: -1px;
+        margin-top: 40px;
+
+}
+
+img{
+    margin: 183px 0px 0px 155px;
+}
+
+.right{
+    width:45%;
+    position: absolute;
+    top:16%;
+    left:56%;
+}
+
+.span-1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.span-2{
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: normal;
+    
+}
+
+.input-first{
+    width: 172px;
+    border-radius: 3px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    position: relative;
+
+}
+
+.input-email{
+    width: 373px;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+
+}
+
+.input-password{
+    width: 373px;
+    border-radius: 5px;
+    border-color: #bdc7d8;
+    font-size: 18px;
+    padding: 8px 10px;
+}
+
+.Birthday{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+
+select{
+    height: 30px;
+    width: 60px;
+    padding: 6px;
+    margin-top: 10px;
+        margin-bottom: 10px;
+
+
+}
+
+a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;    
+}
+
+.Gender{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-top: 10px;
+        margin-bottom: 10px;
+
+}
+ .input-female{
+     font-size: 20px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.input-male{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input-custom{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.short{
+    font-size: 12px;
+    color: gray;
+    width: 316px;
+}
+
+.input-sign{
+    width: 194px;
+    padding: 10px 25px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    letter-spacing: normal;
+    text-align: center;
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    border: 1px solid;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+        margin-top: 10px;
+        margin-bottom: 10px;
+    font-size: 20px;
+
+}
+
+
